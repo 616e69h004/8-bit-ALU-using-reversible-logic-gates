@@ -1,0 +1,11 @@
+*.cdslck
+*.cdslck.*
+psf/
+sim/
+run/
+*.log
+*.raw
+*.trn
+*.dat
+__pycache__/
+.env
